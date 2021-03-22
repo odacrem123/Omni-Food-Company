@@ -18,19 +18,25 @@ Lectures: 77  with 12hours in total
 ___
 
 
+  
++ Objective
 
-```    
-    +Objective
+  - Building Header Part
 
-      - Building Header Part
+  - Adding Navigation 
 
-      - Adding Navigation 
+  - Feature Section
 
-      - Feature Section
+  - Adding Images with Favorite Meals Section
 
-      - Adding Images with Favorite Meals Section
+  - How it works Part
 
-      - How it works Part
+  - Cities and images
 
-      - Cities and images
-```
+  - Customers Feedback
+
+  - Meal Plans
+
+  - Message from customers
+
+  - Footer
