@@ -72,6 +72,9 @@
     margin-left: 0%;
     }
     
+    .box .icon-big {text-align: center;}
+    .box h3 { text-align: center;}
+    
     .app-screen {width: 40%;}
     
     .steps-box:first-child{ text-align-last: center}
