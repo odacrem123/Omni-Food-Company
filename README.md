@@ -9,14 +9,7 @@ This is my very first html and css project website through udemy course i've cov
 
 Instructor: Jonas Schmedtmann
 
-Lectures: 77  with 12hours in total
-
-
-
-
-
 ___
-
 
   
 + Objective
